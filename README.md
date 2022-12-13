@@ -7,7 +7,7 @@ pip install pre-commit
 pre-commit install
 ```
 
-### VSCode上でlinter/formatterを実行したい場合
+### VSCode上でlinter/formatterを有効にしたい場合
 
 ```
 pip install flake8 black isort
