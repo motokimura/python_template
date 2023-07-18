@@ -31,4 +31,3 @@ repos:
     rev: v0.991
     hooks:
     - id: mypy
-      pass_filenames: false
